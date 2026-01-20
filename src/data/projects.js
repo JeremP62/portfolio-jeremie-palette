@@ -88,15 +88,15 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Nouveau Projet",
+    title: "à Venir",
     description: "Description du projet",
     tags: ["React", "Node.js"],
     link: "https://github.com/",
     fullDescription: {
-    context: "test",
-    objectives: ["test"],
-    stack: ["test"],
-    results: ["test"]
+    context: "à Venir",
+    objectives: ["à Venir"],
+    stack: ["à Venir"],
+    results: ["à Venir"],
   }
 }
 ];
