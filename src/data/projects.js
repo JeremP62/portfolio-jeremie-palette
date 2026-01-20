@@ -8,7 +8,7 @@ export const projects = [
     image: kasaImage,
     description: "Application de location immobilière développée avec React. Gestion du routage dynamique, composants réutilisables, carrousel d'images et système de collapse animé pour les descriptions.",
     tags: ["React", "React Router", "Sass", "Vite", "Responsive"],
-    link: "https://github.com/jeremie-palette/kasa",
+    link: "https://github.com/JeremP62/Kasa-projet.git",
     fullDescription: {
       context: "Kasa, leader français de la location d'appartements entre particuliers avec plus de 500 annonces quotidiennes, souhaitait moderniser son site web vieillissant développé en ASP.NET. Ma mission consistait à refondre entièrement le front-end en créant une application React moderne, responsive et fidèle aux maquettes Figma fournies.",
       objectives: [
@@ -49,7 +49,7 @@ export const projects = [
     image: argentBankImage,
     description: "Application bancaire sécurisée avec système d'authentification JWT, gestion d'état centralisée avec Redux Toolkit, routes protégées et gestion des transactions utilisateur.",
     tags: ["React", "Redux", "API REST", "JWT", "React Router"],
-    link: "https://github.com/jeremie-palette/argent-bank",
+    link: "https://github.com/JeremP62/ArgentBank-Frontend.git",
     fullDescription: {
       context: "Argent Bank, une banque en ligne innovante, souhaitait développer un tableau de bord utilisateur moderne et sécurisé. En tant que développeur front-end, j'ai collaboré avec l'équipe back-end pour créer une interface d'authentification robuste et un système de gestion de transactions, tout en documentant les endpoints API nécessaires via Swagger pour la phase 2.",
       objectives: [
