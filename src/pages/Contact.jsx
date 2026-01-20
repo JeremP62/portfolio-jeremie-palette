@@ -140,7 +140,7 @@ function Contact() {
                 </a>
 
                 <p className="text-center text-[#64748B] text-sm">
-                  Je réponds généralement sous 24-48h
+                  
                 </p>
               </div>
             </div>
