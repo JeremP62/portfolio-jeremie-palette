@@ -132,7 +132,7 @@ function Home() {
             Intéressé par mon profil ?
           </h2>
           <p className="text-[#94A3B8] mb-8">
-            Je suis disponible pour des opportunités dans la région de Boulogne-sur-Mer et Lille
+            Je suis disponible pour des opportunités sur Lille et ses environs
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link 

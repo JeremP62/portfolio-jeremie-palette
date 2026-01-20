@@ -18,9 +18,9 @@ function About() {
           </p>
         </div>
 
-        {/* Mon histoire + Timeline */}
+        {/* Mon Parcours + Timeline */}
         <div className="grid lg:grid-cols-2 gap-12 mb-16">
-          {/* Mon histoire */}
+          {/* Mon parcours */}
           <div className="bg-[#1E293B] border border-[#334155] rounded-xl p-8">
             <h2 className="text-2xl font-bold text-white mb-6 flex items-center gap-3">
               <Lottie animationData={Businessman} style={{ width: 250, height: 250 }} />
