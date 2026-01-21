@@ -260,7 +260,7 @@ Application bancaire avec authentification JWT, gestion d'état Redux, routes pr
 Intégrateur Web Junior | Reconversion professionnelle
 
 - 📧 Email : [palette.jeremie@live.fr](mailto:palette.jeremie@live.fr)
-- 💼 LinkedIn : [linkedin.com/in/jeremie-palette](https://linkedin.com/in/jeremie-palette)
+- 💼 LinkedIn : à venir
 - 🐙 GitHub : [@jeremp62](https://github.com/jeremp62)
 - 📍 Localisation : Boulogne-sur-Mer (62) | Mobilité : Lille
 
