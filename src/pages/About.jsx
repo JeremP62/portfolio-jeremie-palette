@@ -19,13 +19,16 @@ function About() {
         </div>
 
         {/* Mon Parcours + Timeline */}
-        <div className="grid lg:grid-cols-2 gap-12 mb-16">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12 mb-16">
           {/* Mon parcours */}
           <div className="bg-[#1E293B] border border-[#334155] rounded-xl p-8">
             <h2 className="text-2xl font-bold text-white mb-6 flex items-center gap-3">
-              <Lottie animationData={Businessman} style={{ width: 250, height: 250 }} />
-              Mon Parcours
-            </h2>
+            
+            <Lottie animationData={Businessman} loop={true} />
+          
+          <span className="sm:hidden text-3xl">🎯</span>
+          Mon Parcours
+         </h2>
             <div className="space-y-4 text-[#94A3B8] leading-relaxed">
               <p>
                 Après <strong className="text-white">15 ans dans la métallurgie</strong> en tant qu'opérateur sur machine numérique, 
