@@ -86,7 +86,7 @@ function Contact() {
                   </a>
 
                   <a 
-                    href="" 
+                    href="https://www.linkedin.com/in/jeremie-palette-72092734b/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="flex items-center gap-3 text-[#94A3B8] hover:text-[#06B6D4] transition-colors group"
